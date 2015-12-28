@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" parallel="none">
+  <listeners>
+    <listener class-name="com.quickride.baselib.QRTestngListener"/>
+  </listeners>
+  <test name="Test(failed)" parallel="none">
+    <classes>
+      <class name="com.quickride.scripts.NotificationsTest">
+        <methods>
+          <include name="testRiderStartedNoti"/>
+          <include name="testRiderStartedCancelled"/>
+          <include name="testNotiReject"/>
+          <include name="testNotiPassengerJoinsCancelsAfterStart"/>
+          <include name="testPassengerJoinsCancels"/>
+          <include name="testNotiDeleteBySwipe"/>
+          <include name="tearDown"/>
+          <include name="testNotiDeletedLongPress"/>
+          <include name="testNotiProfile"/>
+          <include name="testRideNotiPassengerJoinsCancels"/>
+          <include name="setobjects"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.quickride.scripts.NotificationsTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

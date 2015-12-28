@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="com.quickride.scripts.NewUserRegTest">
+        <methods>
+          <include name="testCloseReOpenQR"/>
+          <include name="testSignUpSameUser"/>
+          <include name="testLoginWrongPwd"/>
+          <include name="testLogoutReLogin"/>
+          <include name="testNewUserSignUPProfile"/>
+          <include name="testNewUserSignUP"/>
+          <include name="testSignUpErrCode"/>
+          <include name="testSignUpIncomplete"/>
+          <include name="testLogoutNoVerifyQuickRide"/>
+          <include name="setobjects"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.quickride.scripts.NewUserRegTest -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

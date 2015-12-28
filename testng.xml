@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="none">
+<listeners>
+   	 <listener class-name="com.quickride.baselib.QRTestngListener" />
+  </listeners>
+ 
+  <test name="Test">
+    <classes>
+        <class name="com.quickride.scripts.FeedbackTest"/>
+    	<class name="com.quickride.scripts.GroupChatTest"/>
+    	<class name="com.quickride.scripts.NewUserRegTest"/>
+    	<class name="com.quickride.scripts.NotificationsTest"/>
+    	<class name="com.quickride.scripts.RechargeEncashTest"/>
+    	<class name="com.quickride.scripts.RideMatchConstraintsTest"/>
+    	<class name="com.quickride.scripts.RideScheduleTest"/>
+    	<class name="com.quickride.scripts.RidesTest"/>
+    	<class name="com.quickride.scripts.RideViewTest"/>
+    	<class name="com.quickride.scripts.SocialGuestTest"/>
+    	<class name="com.quickride.scripts.UserConfigTest"/>
+    	<class name="com.quickride.scripts.VehicleCustomisationTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

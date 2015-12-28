@@ -1,0 +1,71 @@
+SignUp button is displayed -2015-11-16 12:02:22,492 - com.quickride.PO.NewUserRegPO - INFO
+Exception in  case signUp() -2015-11-16 12:02:58,298 - com.quickride.PO.NewUserRegPO - ERROR
+SignUp button is displayed -2015-11-16 12:05:08,844 - com.quickride.PO.NewUserRegPO - INFO
+Exception in  case signUp() -2015-11-16 12:05:47,129 - com.quickride.PO.NewUserRegPO - ERROR
+Login button is displayed -2015-11-18 15:22:35,852 - com.quickride.PO.NewUserRegPO - INFO
+User is not registered, need to Sign Up first -2015-11-18 15:24:11,460 - com.quickride.PO.NewUserRegPO - INFO
+Sign Up is completed -2015-11-18 15:24:21,947 - com.quickride.PO.NewUserRegPO - INFO
+Account Activated popup is successfully displayed -2015-11-18 15:24:33,035 - com.quickride.PO.NewUserRegPO - INFO
+New Ride page is succesfully displayed -2015-11-18 15:24:37,198 - com.quickride.PO.NewUserRegPO - INFO
+FaceBook icon is successfully displayed in profile page -2015-11-18 15:24:47,814 - com.quickride.scripts.UserConfigTest - INFO
+LinkedIn icon is successfully displayed in profile page -2015-11-18 15:24:47,901 - com.quickride.scripts.UserConfigTest - INFO
+LinkedIn page is displayed. -2015-11-18 15:24:50,587 - com.quickride.scripts.UserConfigTest - INFO
+Twitter icon is successfully displayed in profile page -2015-11-18 15:24:51,774 - com.quickride.scripts.UserConfigTest - INFO
+Exception in  case testUserProfileSocialLinks -2015-11-18 15:25:52,516 - com.quickride.scripts.UserConfigTest - ERROR
+Login button is displayed -2015-11-18 15:33:57,479 - com.quickride.PO.NewUserRegPO - INFO
+Login is completed -2015-11-18 15:34:22,675 - com.quickride.PO.NewUserRegPO - INFO
+Exception in  case testUserProfileSocialLinks -2015-11-18 15:34:37,661 - com.quickride.scripts.UserConfigTest - ERROR
+Login button is displayed -2015-11-18 15:36:17,857 - com.quickride.PO.NewUserRegPO - INFO
+Login is completed -2015-11-18 15:36:46,294 - com.quickride.PO.NewUserRegPO - INFO
+FaceBook icon is successfully displayed in profile page -2015-11-18 15:36:56,288 - com.quickride.scripts.UserConfigTest - INFO
+LinkedIn icon is successfully displayed in profile page -2015-11-18 15:36:56,419 - com.quickride.scripts.UserConfigTest - INFO
+LinkedIn page is displayed. -2015-11-18 15:36:58,970 - com.quickride.scripts.UserConfigTest - INFO
+Twitter icon is successfully displayed in profile page -2015-11-18 15:37:00,122 - com.quickride.scripts.UserConfigTest - INFO
+Exception in  case testUserProfileSocialLinks -2015-11-18 15:37:31,046 - com.quickride.scripts.UserConfigTest - ERROR
+Login button is displayed -2015-11-18 16:16:54,873 - com.quickride.PO.NewUserRegPO - INFO
+User is not registered, need to Sign Up first -2015-11-18 16:17:37,962 - com.quickride.PO.NewUserRegPO - INFO
+Sign Up is completed -2015-11-18 16:17:48,596 - com.quickride.PO.NewUserRegPO - INFO
+Account Activated popup is successfully displayed -2015-11-18 16:18:05,695 - com.quickride.PO.NewUserRegPO - INFO
+New Ride page is succesfully displayed -2015-11-18 16:18:08,297 - com.quickride.PO.NewUserRegPO - INFO
+Rider creating the ride -2015-11-18 16:18:08,298 - com.quickride.scripts.NotificationsTest - INFO
+Exception in createRide() -2015-11-18 16:18:55,792 - com.quickride.PO.FeedbackPO - ERROR
+Login button is displayed -2015-11-18 16:26:33,404 - com.quickride.PO.NewUserRegPO - INFO
+Login is completed -2015-11-18 16:26:58,846 - com.quickride.PO.NewUserRegPO - INFO
+Rider creating the ride -2015-11-18 16:26:58,846 - com.quickride.scripts.NotificationsTest - INFO
+Ride Scheduled is displayed -2015-11-18 16:27:52,107 - com.quickride.PO.FeedbackPO - INFO
+Logout is successful -2015-11-18 16:28:02,117 - com.quickride.PO.QRProfilePO - INFO
+Rider logins to receive start ride notification -2015-11-18 16:28:02,117 - com.quickride.scripts.NotificationsTest - INFO
+Exception in  case testNotiProfile -2015-11-18 16:29:37,775 - com.quickride.scripts.NotificationsTest - ERROR
+Rider logins to receive start ride notification -2015-11-18 16:32:34,981 - com.quickride.scripts.NotificationsTest - INFO
+Exception in  case testNotiProfile -2015-11-18 16:34:00,089 - com.quickride.scripts.NotificationsTest - ERROR
+Login button is displayed -2015-11-18 16:34:45,237 - com.quickride.PO.NewUserRegPO - INFO
+Exception in  case testNotiProfile -2015-11-18 16:36:19,107 - com.quickride.scripts.NotificationsTest - ERROR
+Login button is displayed -2015-11-18 16:37:25,247 - com.quickride.PO.NewUserRegPO - INFO
+Login is completed -2015-11-18 16:37:54,558 - com.quickride.PO.NewUserRegPO - INFO
+Rider creating the ride -2015-11-18 16:37:54,558 - com.quickride.scripts.NotificationsTest - INFO
+Ride Scheduled is displayed -2015-11-18 16:38:47,829 - com.quickride.PO.FeedbackPO - INFO
+Logout is successful -2015-11-18 16:38:58,864 - com.quickride.PO.QRProfilePO - INFO
+Passenger joining the ride -2015-11-18 16:38:58,864 - com.quickride.scripts.NotificationsTest - INFO
+Login button is displayed -2015-11-18 16:38:58,938 - com.quickride.PO.NewUserRegPO - INFO
+User is not registered, need to Sign Up first -2015-11-18 16:39:42,683 - com.quickride.PO.NewUserRegPO - INFO
+Sign Up is completed -2015-11-18 16:39:56,276 - com.quickride.PO.NewUserRegPO - INFO
+Account Activated popup is successfully displayed -2015-11-18 16:40:23,756 - com.quickride.PO.NewUserRegPO - INFO
+New Ride page is succesfully displayed -2015-11-18 16:40:25,675 - com.quickride.PO.NewUserRegPO - INFO
+Join Button is displayed -2015-11-18 16:41:09,996 - com.quickride.PO.FeedbackPO - INFO
+Logout is successful -2015-11-18 16:41:48,965 - com.quickride.PO.QRProfilePO - INFO
+Rider logins to receive start ride notification -2015-11-18 16:41:48,966 - com.quickride.scripts.NotificationsTest - INFO
+Exception in  case testNotiProfile -2015-11-18 16:43:01,525 - com.quickride.scripts.NotificationsTest - ERROR
+Login button is displayed -2015-11-18 16:43:59,579 - com.quickride.PO.NewUserRegPO - INFO
+Login is completed -2015-11-18 16:44:32,890 - com.quickride.PO.NewUserRegPO - INFO
+Rider creating the ride -2015-11-18 16:44:32,891 - com.quickride.scripts.NotificationsTest - INFO
+Ride Scheduled is displayed -2015-11-18 16:45:24,369 - com.quickride.PO.FeedbackPO - INFO
+Logout is successful -2015-11-18 16:45:38,104 - com.quickride.PO.QRProfilePO - INFO
+Passenger joining the ride -2015-11-18 16:45:38,104 - com.quickride.scripts.NotificationsTest - INFO
+Login button is displayed -2015-11-18 16:45:38,174 - com.quickride.PO.NewUserRegPO - INFO
+Login is completed -2015-11-18 16:46:11,539 - com.quickride.PO.NewUserRegPO - INFO
+Join Button is displayed -2015-11-18 16:47:15,026 - com.quickride.PO.FeedbackPO - INFO
+Logout is successful -2015-11-18 16:47:48,358 - com.quickride.PO.QRProfilePO - INFO
+Rider logins to receive start ride notification -2015-11-18 16:47:48,358 - com.quickride.scripts.NotificationsTest - INFO
+Notification count is displayed -2015-11-18 16:48:30,670 - com.quickride.scripts.NotificationsTest - INFO
+Start Ride notification is displayed for Rider -2015-11-18 16:48:32,643 - com.quickride.scripts.NotificationsTest - INFO
+Exception in  case testNotiProfile -2015-11-18 16:49:03,160 - com.quickride.scripts.NotificationsTest - ERROR
